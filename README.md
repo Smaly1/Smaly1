@@ -30,9 +30,9 @@ Soy técnico en reparación de laptops y smartphones con **10 años de experienc
 
 ---
 
-## 🎉 Un poco de diversión 🤓
+## 🎉 Dia habitual 🤓
 
-![Animated avatar](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Animated avatar](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVoa2pjdnY1aGF0cmk4czZmZzdtbm5yMWFiODB6anFlaGppa2cweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)
 
 ---
 
