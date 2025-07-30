@@ -17,9 +17,9 @@
 
 ## 🛠️ Proyectos destacados
 
-- **[ZonaFitApp](https://github.com/samilrodriquez44/ZonaFitApp)**  
+- **[ZonaFitApp](https://github.com/Smaly1/ZonaFitSpring)**  
   Aplicación para gestión de gimnasios con Java y Spring Boot.  
-- **[Otros proyectos](https://github.com/samilrodriquez44?tab=repositories)**  
+- **[Otros proyectos](https://github.com/Smaly1?tab=repositories)**  
   Repositorio con proyectos de reparación, software y scripts.
 
 ---
