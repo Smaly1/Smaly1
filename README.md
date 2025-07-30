@@ -1,4 +1,5 @@
-# ¡Hola! Soy Samil Rodríguez 👋
+# ¡Hola! Soy Samil o Smaly 👋
+  Como prefieras!
 
 Soy técnico en reparación de laptops y smartphones con **10 años de experiencia**, además de técnico en ventas con **6 años**. Actualmente, me dedico al desarrollo de software profesional desde República Dominicana 🇩🇴, construyendo proyectos con bases sólidas y buenas prácticas.
 
