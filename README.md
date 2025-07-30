@@ -1,7 +1,7 @@
 # ¡Hola! Soy Samil o Smaly 👋
   Como prefieras!
 
-Soy técnico en reparación de laptops y smartphones con **10 años de experiencia**, además de técnico en ventas con **6 años**. Actualmente, me dedico al desarrollo de software profesional desde República Dominicana 🇩🇴, construyendo proyectos con bases sólidas y buenas prácticas.
+🎯 🎯 **Tengo más de 10 años de experiencia reparando laptops y smartphones, además de 6 años trabajando en ventas técnicas. Ahora estoy concentrado en el desarrollo de software, aprendiendo y creando proyectos con Java y Spring Boot, siempre enfocado en buenas prácticas y seguir mejorando cada día.**
 
 ---
 
