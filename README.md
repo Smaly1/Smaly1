@@ -17,18 +17,9 @@
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-<!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg"  width="600">
-<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.gif" width="400" height="400">
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
@@ -85,43 +76,27 @@
 <a href="https://github.com/Smaly1/ZonaFitSpring"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaly1&layout=compact&theme=merko">
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=smaly1&repo=ZonaFitSpring&theme=merko">
-<!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
-
-
 <!--📏LINE-->
-
----
-
-## 🛠️ Proyectos destacados
-
-- **[ZonaFitSpring](https://github.com/Smaly1/ZonaFitSpring)**  
-  Aplicación para gestión de gimnasios con Java y Spring Boot.  
-- **[Otros proyectos](https://github.com/Smaly1?tab=repositories)**  
-  Repositorio con proyectos de reparación, software y scripts.
-
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 ## 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/samilrodriquez44/)  
 - 📧 samilrodriquez44@gmail.com
 
----
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 ## 🎉 Dia habitual 🤓
 
 ![Animated avatar](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVoa2pjdnY1aGF0cmk4czZmZzdtbm5yMWFiODB6anFlaGppa2cweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)
 
----
-
-## 📊 Estadísticas de GitHub
-
-![Smaly1](https://github-readme-stats.vercel.app/api?username=Smaly1&show_icons=true&theme=radical)
-
----
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 > "Construyendo paso a paso con bases sólidas, un commit a la vez." 🚀
 
----
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 ### Gracias por pasar por aquí! 🌟
